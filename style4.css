@@ -1,0 +1,103 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #d3d8f0;
+}
+
+.section-1{
+    display: flex;
+    max-width: 1500px;
+    /* flex-direction: column; */
+    margin: 20px auto;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.header{
+    display: flex;
+    width: 90%;
+    /* flex-direction: column; */
+    border: 1px solid black;
+    justify-content: flex-end;
+    padding: 5px 5px 5px 5px;
+
+}
+
+.logo{
+    border: 1px solid white;
+    margin-right: 1rem;
+}
+
+
+.fitur{
+    display: flex;
+    flex-direction: row;
+    margin-right: 30px;
+    border: 1px solid black;
+    color: black;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+
+.fitur-5{
+    color: white;
+    background-color: rgb(91, 224, 91);
+    padding: 10px 20px;
+}
+
+.section-2{
+    display: flex;
+    max-width: 1500px;
+    /* flex-direction: column; */
+    margin: 20px auto;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    gap: 1rem;
+}
+
+.desc{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    line-height: 1.3;
+    border: 1px solid black;
+}
+
+.judul{
+    text-align: left;
+}
+
+.text{
+    text-align: left;
+}
+
+
+.button{
+    display: flex;
+    width: 150px;
+    justify-content: center;
+    margin: 15px 0px 0px 0px;
+
+    
+}
+
+
+.tombol-1{
+    width: 100%;
+    text-decoration: none;
+    color: black;
+    background-color: rgb(91, 224, 91);
+    padding: 10px 10px;
+}

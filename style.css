@@ -1,0 +1,46 @@
+.merah{
+    /* border: 1px solid; */
+    background-color: red;
+    margin: 0px;
+}
+.jingga{
+    /* border: 1px solid; */
+    background-color: #ff4500;
+    margin: 0px;
+
+}
+.kuning{
+    /* border: 1px solid; */
+    background-color: yellow;
+    margin: 0px;
+
+}
+.hijau{
+    /* border: 1px solid; */
+    background-color: green;
+    margin: 0px;
+
+}
+.biru{
+    /* border: 1px solid; */
+    background-color: blue;
+    margin: 0px;
+
+}
+.nila{
+    /* border: 1px solid; */
+    background-color: #4B00FF;
+    margin: 0px;
+
+}
+.ungu{
+    /* border: 1px solid; */
+    background-color: purple;
+    margin: 0px;
+
+}
+
+.border{
+    width: 10rem;
+    color: white;
+}

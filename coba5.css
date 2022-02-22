@@ -1,0 +1,38 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(144, 87, 236, 0.863);
+}
+
+
+.ini-navbar{
+    /* display: flex; */
+    margin: 10px;
+}
+
+
+.ini-carousel{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    /* background-color: aqua; */
+
+    justify-content: center;
+}
+
+.content-carousel{
+    width: 50%;
+    justify-content: center;
+}
+
+.ini-accordion{
+    display: flex;
+    /* width: 50%; */
+    /* background-color: aqua; */
+    justify-content: center;
+}
+
+.content-accordion{
+    width: 50%;
+}
